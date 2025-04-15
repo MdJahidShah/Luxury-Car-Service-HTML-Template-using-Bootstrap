@@ -258,18 +258,21 @@ img.img-fluid.img-height {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black overlay */
     z-index: 1; /* Keep overlay below text */
 }
-.banner-section h1, .banner-section h3,.info-section {
+.banner-section h2, .banner-section p,.info-section {
     position: relative;
     z-index: 2; /* Keep text above overlay */
 }
-.banner-section h1 {
+.banner-section h2 {
     font-weight: bold;
     color: #c8102e;
 }
 .banner-section h3 {
+    font-size: 21px;
+}
+.banner-section p {
     font-weight: lighter;
     margin-bottom: 20px;
 }
@@ -281,8 +284,12 @@ img.img-fluid.img-height {
     padding: 0;
 }
 .info-section ul li {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     margin-bottom: 10px;
+    color: #cfcfcf;
+}
+.info-section ul li:hover{
+    color:#07b36b
 }
 .social-icons a {
     color: white;
