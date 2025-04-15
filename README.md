@@ -40,6 +40,6 @@ Luxury-Car-Service-HTML-Template-using-Bootstrap/
 ## 👨‍💻 Author
 
 **Md Jahid Shah**  
-🚀 [Portfolio Website](https://mdjahidshah.github.io/)  
+🚀 [Portfolio Website](https://jahidshah.com/)  
 📘 [Facebook](https://facebook.com/jahidshahwp)  
 💼 WordPress Developer & Penetration Tester  
